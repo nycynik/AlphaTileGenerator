@@ -1,4 +1,4 @@
-# AlphaTileGenerator
+# Alpha Tile Generator
 Generate a set of tiles with a set of letters and a tile image
 
 Try it out!
